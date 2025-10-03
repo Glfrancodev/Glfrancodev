@@ -35,5 +35,5 @@
 ---
 
 ## 🌐 Encuéntrame en:
-- [LinkedIn]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/Gabriel-Andres-Lopez-Franco/))
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Gabriel-Andres-Lopez-Franco/)
 - ✉️ gabrielandreslopezfrancodev@gmail.com
